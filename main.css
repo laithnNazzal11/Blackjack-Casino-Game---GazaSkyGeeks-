@@ -1,0 +1,31 @@
+body {
+    margin-top: 5%;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Blackjack {
+    height: 100vh;
+    background-color: #066932;
+}
+.Blackjack  h1 {
+    padding-top: 5%;
+    color:#d39b23
+}
+
+.Blackjack button {
+    color:#016f32;
+    width:150px;
+    background-color: goldenrod;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+    padding-top:5px;
+    padding-bottom: 5px;
+    border-radius: 5px;  
+    margin-top: 10px; 
+    
+}
+
